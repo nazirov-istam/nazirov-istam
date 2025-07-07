@@ -25,12 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Istam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazirov-istam&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nazirov-istam/)  
